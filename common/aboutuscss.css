@@ -10,5 +10,12 @@
     .topic{
         background-color:  #6c757d38;
         color: #3a3a3bad;
+    }.mission{
+        padding-left: 2em;
     }
+
+    .mission-1{
+        border-bottom: 2px solid black ;
+    }
+
   
