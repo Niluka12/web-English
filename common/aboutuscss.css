@@ -42,4 +42,12 @@
     .text-height-2 {
         line-height: 2!important;
     }
-  
+        .text-height-3 {
+        line-height: 2.5!important;
+    }
+    .text-height-4 {
+        line-height: 3!important;
+    }
+    .text-height-5 {
+        line-height: 3.5!important;
+    }
