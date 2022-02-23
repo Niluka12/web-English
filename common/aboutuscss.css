@@ -16,6 +16,21 @@
 
     .mission-1{
         border-bottom: 2px solid black ;
+    }.col-img{
+        background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._OQbFyIqBdkSGUHxHtDougHaEK%26pid%3DApi&f=1");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width:100%;
+        height: 70%;
+        margin-top: 5vh;
+        margin-left: -5vh;
+        border-radius: 12px;
+    }
+
+    .head-1{
+        background: rgb(153,201,109);
+        background: linear-gradient(90deg, rgba(153,201,109,1) 0%, rgba(0, 255, 187, 0.537) 45%, rgba(0, 255, 30, 0.449) 100%);
     }
 
   
